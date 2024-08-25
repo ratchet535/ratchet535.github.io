@@ -1,0 +1,19 @@
+{
+  "files": {
+    "main.css": "/static/css/main.cb3ba43b.css",
+    "main.js": "/static/js/main.01a47e7e.js",
+    "static/media/geoportail-icons.woff": "/static/media/geoportail-icons.5ca76f19091b04598906.woff",
+    "static/media/DINNextLTPro-Condensed.woff": "/static/media/DINNextLTPro-Condensed.24404e3b3f57378e6474.woff",
+    "static/media/urbanfarming.woff": "/static/media/urbanfarming.16da5dc4b1ca0f191062.woff",
+    "static/media/Geoportail-Grande-Region.woff": "/static/media/Geoportail-Grande-Region.c39e6b4ab604a8c8cdce.woff",
+    "static/media/spritesheet.svg": "/static/media/spritesheet.a4e0eb7ad904a4858361.svg",
+    "static/media/apart-geoportail.ttf": "/static/media/apart-geoportail.e4dc4539f68d176f5a96.ttf",
+    "index.html": "/index.html",
+    "main.cb3ba43b.css.map": "/static/css/main.cb3ba43b.css.map",
+    "main.01a47e7e.js.map": "/static/js/main.01a47e7e.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.cb3ba43b.css",
+    "static/js/main.01a47e7e.js"
+  ]
+}

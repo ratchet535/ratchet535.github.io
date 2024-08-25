@@ -1,0 +1,280 @@
+{
+  "map": {
+    "sidebar": {
+      "addfield": "Добавить поле",
+      "fieldslist": "Ваши поля",
+      "upload": "Загрузка KML/SHP",
+      "language": "Язык",
+      "tile": "Выбор подложки",
+      "lang": "Выбор языка:",
+      "places": "Список хозяйств",
+      "images": "Снимки",
+      "sources": "Источники снимков",
+      "search": "Поиск снимка",
+    },
+    "field": {
+      "create": "Создать поле"
+    },
+  },
+  "error": {
+    "noconnection": "Нет соединения с сервером!",
+    "adminkey": "Введите ключ и роль!",
+    "connectionerror": "Ошибка соединения с сервером!",
+    "checkdata": "Проверьте введенные данные!"
+  },
+  "warning": {
+    "clickagain": "Нажмите еще раз для подтверждения!"
+  },
+  "common": {
+    "themechange": "Смена темы",
+    "return": "Вернуться",
+    "agro": "SD",
+    "kazakhstan": "Республика Казахстан",
+    "usertype": {
+      "admin": "Администратор",
+      "user": "Пользователь",
+      "admin_adj": "Администраторский",
+      "user_adj": "Пользовательский"
+    },
+    "key": "Ключ",
+    "place": "К/Х",
+    "email": "Почта",
+    "names": "Имя и Фамилия",
+    "regkey": "Ключ регистрации",
+    "password": "Пароль",
+    "name": "Имя",
+    "surname": "Фамилия",
+    "place_dif": "Хозяйство, кооператив",
+    "email_dif": "Email",
+    "noname": "Безымянный",
+    "weather": "Погода",
+    "save": "Сохранить",
+    "tablet": "Agro",
+    "portal": "Agro",
+    "send": "Отправить",
+    "accounttype": "Права",
+    "logout": "Выход",
+    "back": "Назад",
+    "created": "Создано",
+    "download": "Скачать"
+  },
+  "title": {
+    "list": {
+      "main": "Главная",
+      "aboutus": "О нас",
+      "profile": "Войти",
+      "demo": "ЗАЯВКА НА ДЕМО",
+      "contacts": "Контакты"
+    },
+    "feed": {
+      "number": "Номер телефона*",
+      "name": "Имя*",
+      "email": "Электронная почта*",
+      "message": "Введите сообщение"
+    }
+  },
+  "adminpanel": {
+    "title": "Панель администратора",
+    "regkey": {
+      "title": "Генерация ключа регистрации",
+      "placeholder": "Ключ",
+      "button": "Создать",
+      "createdby": "создан",
+      "list": "Ключи регистрации:"
+    },
+    "role": {
+      "placeholder": "Роль"
+    },
+    "nokeys": "Ключей пока нет!",
+    "users": {
+      "notfound": "Пользователи не найдены",
+      "title": "Пользователи:"
+    }
+  },
+  "recommend": {
+    "nodata": "Не введены данные"
+  },
+  "profile": {
+    "map": "Карта",
+    "logout": "Выйти",
+    "activate": "Активация аккаунта",
+    "title": "МЕНЮ ВОЗМОЖНОСТЕЙ",
+    "notes": "Заметки",
+    "admin": "Админ-панель",
+    "activatebutton": "Активировать",
+    "activatetooltip": "Введите ключ регистрации, переданный вам администратором сайта. Без ключа вам все еще будет доступна демо-версия сервиса. Заявку на ключ можно заполнить ",
+    "activatelink": "по этой ссылке!",
+    "calcs": "Калькуляторы",
+    "externalres": "Внешние ресурсы",
+    "recommend": "Рекомендации",
+    "data": "Справочник",
+    "help": "Руководство по программе",
+    "anonwelcome": "Приветствуем вас на портале Agro SD!",
+    "welcome": "Приветствуем вас",
+    "demowarn": "Вы находитесь в демо-версии с ограниченными возможностями!",
+    "pages": {
+      "mapmain": "Картографическая основа"
+    },
+    "subtext": "Подробнее..."
+  },
+  "login": {
+    "title": "Вход в аккаунт",
+    "forgot": "Забыли пароль?",
+    "button": "Войти"
+  },
+  "signin": {
+    "emptyemail": "Введите почту!",
+    "emptypassword": "Введите пароль!"
+  },
+  "welcome": {
+    "title": "Добро пожаловать в Портал Agro SD!",
+    "subtitle": "Пожалуйста, войдите в существующий аккаунт или создайте новый!",
+    "signup": "Регистрация",
+    "signin": "Вход"
+  },
+  "signup": {
+    "passwordtooltip": "Пароль должен быть не менее 8 символов, содержать одну цифру, одну заглавную и одну строчную букву в латинице",
+    "regkeytooltip": "Введите ключ регистрации, переданный вам администратором сайта. Без ключа вам все еще будет доступна демо-версия сервиса. Заявку на ключ можно заполнить"
+  },
+  "upload": {
+    "title": "Загрузка файлов"
+  },
+  "sidemenu": {
+    "yourfields": "Ваши поля и заметки:",
+    "field": "Поле",
+    "area": "Площадь:",
+    "cadaster": "Кадастровый номер:",
+    "soil": "Тип почвы:",
+    "goto": "Перейти",
+    "delete": "Удалить",
+    "ha": "га",
+    "weather_region": "Погода в районе",
+    "temp": "Температура:",
+    "humidity": "Влажность:",
+    "cloudiness": "Облачность:",
+    "pressure": "Атмосферное давление:",
+    "hpa": "гПа",
+    "wind": "Скорость ветра:",
+    "kph": "км/ч",
+    "name": "Имя/номер поля",
+    "savefield_file": "Сохранение полей из файла",
+    "savefield": "Сохранение поля",
+    "cha": "ц/га",
+    "mps": "м/с"
+  },
+  "soiltype": {
+    "south_ch": "Чернозем южный, малогумусный",
+    "common_ch": "Черно­зем обыкновенный",
+    "dark_k": "Темно-каштановая почва",
+    "light_k": "Светло-каштановая почва"
+  },
+  "leaflet": {
+    "draw": {
+      "toolbar": {
+        "actions": {
+          "title": "Отмена чертежа",
+          "text": "Отменить"
+        },
+        "finish": {
+          "title": "Завершить рисование",
+          "text": "Завершить"
+        },
+        "undo": {
+          "title": "Удалить последнюю нарисованную точку",
+          "text": "Удалить последнюю точку"
+        },
+        "buttons": {
+          "polyline": "Нарисовать ломаную",
+          "polygon": "Нарисовать многоугольник",
+          "rectangle": "Нарисовать прямоугольник",
+          "circle": "Нарисовать круг",
+          "marker": "Нарисовать маркер",
+          "circlemarker": "Draw a circlemarker"
+        }
+      },
+      "handlers": {
+        "circle": {
+          "tooltip": {
+            "start": "Click and drag to draw circle."
+          },
+          "radius": "Radius"
+        },
+        "circlemarker": {
+          "tooltip": {
+            "start": "Нажмите, чтобы поставить маркер"
+          }
+        },
+        "marker": {
+          "tooltip": {
+            "start": "Нажмите, чтобы поставить маркер"
+          }
+        },
+        "polygon": {
+          "tooltip": {
+            "start": "Нажмите, чтобы начать рисование",
+            "cont": "Нажмите, чтобы продолжить рисование",
+            "end": "Нажмите, чтобы завершить рисование"
+          }
+        },
+        "polyline": {
+          "error": "<strong>Ошибка:</strong> стороны ломаной не могут пересекаться!",
+          "tooltip": {
+            "start": "Click to start drawing line.",
+            "cont": "Click to continue drawing line.",
+            "end": "Click last point to finish line."
+          }
+        },
+        "rectangle": {
+          "tooltip": {
+            "start": "Нажмите и проведите, чтобы нарисовать прямоуголник"
+          }
+        },
+        "simpleshape": {
+          "tooltip": {
+            "end": "Release mouse to finish drawing."
+          }
+        }
+      }
+    },
+    "edit": {
+      "toolbar": {
+        "actions": {
+          "save": {
+            "title": "Save changes",
+            "text": "Save"
+          },
+          "cancel": {
+            "title": "Cancel editing, discards all changes",
+            "text": "Cancel"
+          },
+          "clearAll": {
+            "title": "Clear all layers",
+            "text": "Clear All"
+          }
+        },
+        "buttons": {
+          "edit": "Edit layers",
+          "editDisabled": "No layers to edit",
+          "remove": "Delete layers",
+          "removeDisabled": "No layers to delete"
+        }
+      },
+      "handlers": {
+        "edit": {
+          "tooltip": {
+            "text": "Drag handles or markers to edit features.",
+            "subtext": "Click cancel to undo changes."
+          }
+        },
+        "remove": {
+          "tooltip": {
+            "text": "Click on a feature to remove."
+          }
+        }
+      }
+    }
+  },
+  "auth": {
+    "title": "Авторизация"
+  }
+}
